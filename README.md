@@ -135,3 +135,18 @@ uv run ruff format .
 ## Flujo de trabajo
 
 El repositorio sigue GitFlow (`main`, `develop`, `feature/*`, `release/*`) y [Conventional Commits](https://www.conventionalcommits.org/).
+
+
+## Evidencias
+
+### Creación del entorno virtual
+![Creación del entorno virtual](docs/img/01-crear-entorno.png)
+
+### Instalación de dependencias
+![Instalación de dependencias](docs/img/02-instalar-dependencias.png)
+
+### Uso de variables de entorno
+![Uso de variables de entorno](docs/img/03-variables-entorno.png)
+
+### Ejecución del sistema
+![Ejecución del sistema](docs/img/04-ejecucion.png)
